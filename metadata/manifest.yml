@@ -53,10 +53,10 @@ Endpoints:
 Install-Build-Required: false
 #Source-Url: file:///root/test/cperlv2cart
 #Source-Url: file:///root/dymongo/
-#Source-Md5: d916798a7e218f12b476bf1dee645f9d
+Source-Md5: d916798a7e218f12b476bf1dee645f9d
 ##Source-Url: https://github.com/duyanyan/dymongo/raw/master/dymongo.tar.gz
-##Source-Url: https://github.com/duyanyan/dymongo/raw/master/dymongo.zip
-Source-Url: https://github.com/duyanyan/dymongo.git
+Source-Url: https://github.com/duyanyan/dymongo/raw/master/dymongo.zip
+#Source-Url: https://github.com/duyanyan/dymongo.git
 #Source-Url: git://github.com/duyanyan/dymongo.git
 #Source-Url: https://baidu.com
 ##
